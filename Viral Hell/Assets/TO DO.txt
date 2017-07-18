@@ -1,0 +1,25 @@
+
+Tune everything!- have people who have never played before try it out and see 
+how difficult it is and how clear the controls and mechanics are
+	Tune 
+		Player speed
+		Bullet spawn rates
+		Boss variables
+
+Add life system! I was thinking just add virus sprites on the "Cell Sprite" object 
+in the light blue part and set one of them inactive each time you get hit- 
+maybe 3 lives like in a triangle around nucleus?
+
+Add win and lose menu in the scene- I (Jacob) will do this after my class
+
+Finish the 2nd boss mechanics and tuning
+
+SOUND EFFECTS! add cool and weird sound effects for shooting, shrinking, growing, 
+macrophage shooting, dendritic shooting (zappy effect?), dendritic bomb shooting
+I will help with these when I get out of class I think good sounds will add a lot to the 
+game feel
+
+Add simple credits scene with return to menu button
+
+
+

@@ -1,0 +1,26 @@
+
+//CREDITS!
+
+Jacob Idec - Visuals, Design, Programming
+Jonathan Kwee - Design, Programming
+Patrick Niyongabo - Design, Programming
+
+Rubber Biscuit Font by dabnotu @ http://www.1001fonts.com/rubber-biscuit-font.html
+
+Forest Background by noirlac @ noirlac.tumblr.com
+
+Flight Of the Bumble Bee 8-Bit by 777MCore
+
+Flowers of Antimony (from Shovel Knight) by Jake Kaufman
+
+Dance of the Decorous (from Crypt of the Necrodancer) by Danny Baranowsky
+
+Rave in the Grave (from Shantae and the Pirate's Curse) by Jake Kaufman
+
+The Wight to Remain (from Crypt of the Necrodancer) by Danny Baranowsky
+
+Upgrade Station (from Team Fortess 2) by Valve
+
+Honeyhive Galaxy (from Super Mario Galaxy) by Mahito Yokota
+
+*Created in the game development course at Hendrix College*

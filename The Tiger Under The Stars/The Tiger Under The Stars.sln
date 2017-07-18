@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{47172777-356C-9C71-4C35-1BA14C3AF004}") = "The Tiger Under The Stars", "Assembly-CSharp.csproj", "{688B3DE1-595E-C8BA-8610-553F53BF5060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688B3DE1-595E-C8BA-8610-553F53BF5060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688B3DE1-595E-C8BA-8610-553F53BF5060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688B3DE1-595E-C8BA-8610-553F53BF5060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688B3DE1-595E-C8BA-8610-553F53BF5060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

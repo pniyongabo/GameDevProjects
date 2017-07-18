@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac751c99a8875f04c9b893312dbf4a75
+timeCreated: 1491443341
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ParentBee: {fileID: 1064343141979986, guid: 8c6b844b54dab3e4d8aabb2c9280ce10,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 323461101c719ef479233ef09a9d5163
+timeCreated: 1492880086
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: OldGameFatty
+  fontNames:
+  - OldGameFatty
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

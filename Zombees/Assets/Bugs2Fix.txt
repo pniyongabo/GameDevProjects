@@ -1,0 +1,13 @@
+
+change upgrade buttons DONE
+delete stupid upgrade text DONE
+make all buttons and text consistent DONE
+improve hive platform visibility
+fix zombee weightdown bug 
+make 2p waves spawn consistently  
+change 2p wave variables 
+loop finale scene back to menu DONE
+credits scene DONE
+
+
+

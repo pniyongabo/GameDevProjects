@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/cubesGenerator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="54" Column="3" />
+      <File FileName="Assets/Scripts/Scene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/cubesGenerator.cs" Line="21" Column="4" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UVfollow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D520D9DD-7AB4-C92A-C7F1-190288391E55}") = "Viral Hell", "Assembly-CSharp.csproj", "{0455C38B-1EB2-7130-9952-4E444966B249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0455C38B-1EB2-7130-9952-4E444966B249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0455C38B-1EB2-7130-9952-4E444966B249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0455C38B-1EB2-7130-9952-4E444966B249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0455C38B-1EB2-7130-9952-4E444966B249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

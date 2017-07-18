@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0b9b9797e99d7834d8c51eadd0bcf7e7
+timeCreated: 1492880221
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HigherPixels
+  fontNames:
+  - HigherPixels
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
