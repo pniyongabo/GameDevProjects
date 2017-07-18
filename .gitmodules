@@ -1,0 +1,3 @@
+[submodule "csci370"]
+	path = csci370
+	url = https://github.com/mgoadric/csci370.git
