@@ -1,2 +1,2 @@
 # GameDevProjects
-My CS370 Class Projects and Materials. Hendrix College
+My CS370 [GameDev] (Hendrix College) Class Projects and Materials. 
